@@ -16,6 +16,7 @@ Find a way to execute the goal you had set
 If its heading home to a port or winning a race
 
 # building a company is so much like racing a sailboat
+
     you need a plan
     ability to re-evaluate a new plan as the situation changes
     you need to let go of your self doubt
